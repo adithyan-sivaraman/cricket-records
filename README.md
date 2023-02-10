@@ -5,5 +5,5 @@
 
 ## (B) Android
 ### step 1. Save url in records.txt file (eg. https://stats.espncricinfo.com/ci/content/records/283902.html)
-### step 2. Save the text file in main folder (/storage/emulated/0) or specify the path in line 13 of the code
-### step 2. The Excel file will be saved in same folder as your python file
+### step 2. Save the text file in main folder (/storage/emulated/0) or specify the path in line 11 of the code
+### step 3. The Excel file will be saved in same folder as your python file
